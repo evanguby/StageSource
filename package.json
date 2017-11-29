@@ -1,0 +1,15 @@
+{
+  "name": "stagesource",
+  "version": "1.0.0",
+  "description": "Easily make a playlist of artists top songs.",
+  "main": "index.js",
+  "dependencies": {
+    "angular-spotify": "^1.5.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Evan Guby",
+  "license": "ISC"
+}
